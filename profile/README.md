@@ -9,7 +9,7 @@ Climate change is a defining problem for our planet. A simple idea - reprintable
 We're ambitious scientists and creatives working on this world-changing tech to de-carbonize and digitize your closet.
 
 | Name | Email | Title | Degree |
-|-|-|-|-|-|
+|-|-|-|-|
 | Raj Bhakta | --- | Chief Executive Officer | Ph.D. Textiles Engineering | 
-| Suliman Sharif |  -- |  Consultant | XXXX  |  Ph.D. Candidate, Pharmaceutical Sciences | 
+| Suliman Sharif |  -- |  Consultant |  Ph.D. Candidate, Pharmaceutical Sciences | 
 
