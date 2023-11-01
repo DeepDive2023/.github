@@ -13,3 +13,4 @@ We're ambitious scientists and creatives working on this world-changing tech to 
 | Raj Bhakta | --- | Chief Executive Officer | Ph.D. Textiles Engineering | 
 | Suliman Sharif |  -- |  Computational Chemistry Consultant |  Ph.D. Candidate, Pharmaceutical Sciences | 
 
+# Recent News
